@@ -9,9 +9,9 @@ Analize Kickstart Data to determine if length of campaign contributes to the suc
 
 Outcomes Based on Goals - This graph displays how many campaigns were successful, failed or canceled basedd on the fund raising goal of the project.
 
-![image]OutcomesBasedOnGoal.png
+![image](OutcomesBasedOnGoal.png)
 
 
 Outcomes Based on Launch Date - This graph displays how many campaigns were successful, failed or canceled based on the date the project started.
 
-![image]OutcomesBasedOnLaunchDate.png
+![image](OutcomesBasedOnLaunchDate.png)
